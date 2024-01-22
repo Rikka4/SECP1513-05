@@ -1,4 +1,4 @@
-# 📹ASSIGNMENT 2: Video on Visit to UTMDigital and the Attended Virtual Talk
+# ASSIGNMENT 2: Video on Visit to UTMDigital and the Attended Virtual Talk
 ## 👋OVERVIEW
 Hello There!
 
