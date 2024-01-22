@@ -1,1 +1,12 @@
+# DESIGN THINKING
+## TITLE OF DESIGN THINKING PRODUCT: SMART HELMET
+Hello There!
 
+For this Design Thinking assignment , we are required to write a group report, video and presentation. Design thinking is a process of critical thinking used to develop solutions to problems through collaboration, innovation and design. Design thinking helps prepare student for a world where skills such as teamwork, problem solving, communication, analysis, creativity and the ability to influence others is becoming increasingly important in the work force.
+
+## REFLECTION
+As a future software engineer, my top priority is to learn and develop all skills that are essential in this industry. To acquire these skills, first I must pay full attention during classes and ask about something that I don’t know from my fellow peers or lecturers. Then, I should not only rely on the class but also study by myself since there is a lot of material that is distributed for learning on the internet such as on Youtube. By mastering all the theoretical and practical knowledge for this course, I believe that I can be a capable software engineer that is in demand by all companies. Thus being able to produce software applications such as WhatsApp that we use on a daily basis.
+
+From this design thinking, I have managed to acquire so many different new soft skills and knowledge. First and foremost it gives me the opportunity to think critically as this skill is the most important when you are developing a software to meet the requirement that is needed by the user. Furthermore, I am also able to learn on how to work with a team as we are required to distribute tasks equally so that there is no one who is dissatisfied with the work given. Subsequently, improving my communication skills as communication is the most crucial part when you are at work so that there is no misinformation among team members. Not to forget, I am also able to enhance my editing skill when I am editing the video by using software such as Capcut. Finally, this design thinking project is able to teach me and gives experience on how to execute at some project given when I have already worked in this industry in the future.
+
+Finally, I am thinking of improving my programming skills as it is the main core of my program. Not only that, learning other programming languages such as Java and Kotlin can also increase my market value. Not to forget, my plan is to acquire as many qualified certificate as much as I can to enhance my resume so I can be better in this industry.
