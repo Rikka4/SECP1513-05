@@ -1,6 +1,6 @@
 # DESIGN THINKING
 ## TITLE OF DESIGN THINKING PRODUCT: SMART HELMET
-Hello There!
+Hello There! 👋
 
 For this Design Thinking assignment , we are required to write a group report, video and presentation. Design thinking is a process of critical thinking used to develop solutions to problems through collaboration, innovation and design. Design thinking helps prepare student for a world where skills such as teamwork, problem solving, communication, analysis, creativity and the ability to influence others is becoming increasingly important in the work force.
 
