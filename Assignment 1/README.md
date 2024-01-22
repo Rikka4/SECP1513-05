@@ -1,10 +1,10 @@
 # INDUSTRIAL TALK 1: 
-## 👋OVERVIEW OF ICT JOBS IN CLARITY TECHWORKS SDN BHD
-Hello There!
+## OVERVIEW OF ICT JOBS IN CLARITY TECHWORKS SDN BHD
+Hello There! 👋
 
 For this assignment, we are required to do a poster about the industrial talk that is held via webex which is collaboration of Universiti Teknologi Malaysia and Clarity Techworks Sdn Bhd
 
-## 🤙REFLECTION
+## REFLECTION
 This industrial talk have given me a lot of exposure regarding position and job scope that is available on computer science field. The talk starts with the speakers give an overview about their company by introducing their main product that is known as Rapidz Pay.
 
 After that, each of the speaker talks about their position and job scope in the company. This discussion revealed about what software used by each of them as well as mention about skills that is essential in this industry. The speakers also inform that what is the difference between study and work life which I find very surprising.
