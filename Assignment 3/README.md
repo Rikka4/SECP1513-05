@@ -1,6 +1,7 @@
 # INDUSTRY TALK 2:
 ## SYSTEM DEVELOPMENT @ CREDENCE (TM SUBSIDIATRY)
 Hello There!
+
 For this Assignment 3, we are required to write a report about Industrial Talk 2 that is held via webex which is about System Development @ Credence (TM Subsidiary) on 28th December 2023 from 2.30 to 4.30pm.
 
 ## REFLECTION 
