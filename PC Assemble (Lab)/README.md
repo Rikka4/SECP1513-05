@@ -1,5 +1,6 @@
 # PC Assemble
 Hello There! 👋
+
 For this part we are learning on how to disassemble and assemble a PC step by step guided by technician.
 ## REFLECTION
 The lab session really sparking my interest in PC Assemble as this is my first time assembling a PC. As I have never assembling a PC, I thought that it would be quite hard but the technician who guided us did an excellent job patiently explaining every component that we need to know.
